@@ -1,0 +1,22 @@
+/* src/components/styles.css */
+
+.UserForm, .Leaderboard, .ClaimHistory {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    background-color: #ffffff;
+  }
+  
+  h2, h3 {
+    color: #007bff;
+  }
+  
+  select, input, button {
+    margin-top: 10px;
+  }
+  
+  .selected {
+    background-color: #d1ecf1;
+  }
+  
